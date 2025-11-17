@@ -218,7 +218,7 @@ Los reportes de pagos y reservas deben ser completamente correctos y la informac
 
 ---
 
-## RNF-09: PROCESOS ADMINISTRATIVOS Y DE ALMACENAMIENTO
+## RNF-009: PROCESOS ADMINISTRATIVOS Y DE ALMACENAMIENTO
 
 ### RNF-09.1: Gestión de Inventario
 
