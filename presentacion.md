@@ -42,14 +42,21 @@ El objetivo principal de este proyecto es diseñar y desarrollar un sistema inte
 ---
 
 ## **Requisitos No Funcionales (RNF)**
-- [RNF-001 – Seguridad y Accesos](requisitos_no_funcionales.md#rnf-001)
-- [RNF-002 – Disponibilidad](requisitos_no_funcionales.md#rnf-002)
-- [RNF-003 – Rendimiento](requisitos_no_funcionales.md#rnf-003)
-- [RNF-004 – Usabilidad](requisitos_no_funcionales.md#rnf-004)
-- [RNF-005 – Escalabilidad](requisitos_no_funcionales.md#rnf-005)
-- [RNF-006 – Portabilidad](requisitos_no_funcionales.md#rnf-006)
-- [RNF-007 – Mantenibilidad](requisitos_no_funcionales.md#rnf-007)
-- [RNF-008 – Auditoría y Trazabilidad](requisitos_no_funcionales.md#rnf-008)
+
+- [RNF-001 – Rendimiento y Capacidad](requisitos_no_funcionales.md#rnf-001-rendimiento-y-capacidad)
+- [RNF-002 – Seguridad de Datos](requisitos_no_funcionales.md#rnf-002-seguridad-de-datos)
+- [RNF-003 – Disponibilidad y Accesibilidad](requisitos_no_funcionales.md#rnf-003-disponibilidad-y-accesibilidad)
+- [RNF-004 – Escalabilidad y Rendimiento](requisitos_no_funcionales.md#rnf-004-escalabilidad-y-rendimiento)
+- [RNF-005 – Rendimiento en Temporada Alta](requisitos_no_funcionales.md#rnf-005-rendimiento-en-temporada-alta)
+- [RNF-006 – Usabilidad y Facilidad de Aprendizaje](requisitos_no_funcionales.md#rnf-006-usabilidad-y-facilidad-de-aprendizaje)
+- [RNF-007 – Housekeeping / Ventas y Comercial](requisitos_no_funcionales.md#rnf-007-housekeeping--ventas-y-comercial)
+- [RNF-008 – Financiero](requisitos_no_funcionales.md#rnf-008-financiero)
+- [RNF-009 – Procesos Administrativos y de Almacenamiento](requisitos_no_funcionales.md#rnf-009-procesos-administrativos-y-de-almacenamiento)
+- [RNF-010 – Canales de Comunicación](requisitos_no_funcionales.md#rnf-010-canales-de-comunicacion)
+- [RNF-011 – Sistema Operativo](requisitos_no_funcionales.md#rnf-011-sistema-operativo)
+- [RNF-012 – Sistema de Mantenimiento](requisitos_no_funcionales.md#rnf-012-sistema-de-mantenimiento)
+- [RNF-013 – Tiempo de Respuesta del Sistema](requisitos_no_funcionales.md#rnf-013-tiempo-de-respuesta-del-sistema)
+- [RNF-014 – Integridad de la Información](requisitos_no_funcionales.md#rnf-014-integridad-de-la-informacion)
 
 ---
 
